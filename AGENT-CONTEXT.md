@@ -12,13 +12,14 @@
 
 | Field | Value |
 |-------|-------|
-| **Project Name** | CryptoAI Trading System |
+| **Project Name** | CryptoAI Trading System + CryptoWatch |
 | **Owner** | Riza (@rizamasykur) |
+| **Email** | hanirizo@gmail.com |
 | **GitHub** | https://github.com/rizoadev/arxiv-trading-papers |
 | **Start Date** | March 16, 2026 |
 | **Current Phase** | Documentation Complete ✅ |
-| **Next Phase** | Implementation (coding) |
-| **Priority** | Project setup → Core agents → Backtesting |
+| **Next Phase** | Dashboard MVP OR Database Setup |
+| **Priority** | Dashboard (2-3 weeks) → Database → Core Agents |
 
 ---
 
