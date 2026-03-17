@@ -43,11 +43,13 @@ Build AI-powered crypto trading system based on **142 arXiv papers** (2024-2026)
 - [x] Created auto-research specs
 - [x] Created spot vs perps guide
 
-### Documentation (16 Files, ~630KB)
+### Documentation (18 Files, ~671KB)
 ```
 arxiv-trading-papers/
 ├── WHITEPAPER-v1.md (21KB)
 ├── THE-CRYPTO-TRADING-GUIDE.md (40KB)
+├── CRYPTOWATCH-WHITEPAPER.md (18KB) ⭐ NEW!
+├── CRYPTOWATCH-SPEC.md (23KB) ⭐ NEW!
 ├── ARXIV-LINKS-ALL-142-PAPERS.md (15KB)
 ├── MASTER-SUMMARY-STATE-OF-AI-TRADING-2024-2026.md (27KB)
 ├── algorithm/
@@ -164,6 +166,8 @@ arxiv-trading-papers/
 
 ## Next Steps (Priority Order)
 
+### CryptoAI Trading System
+
 ### Phase 1: Project Setup (1-2 hours)
 - [ ] Generate `requirements.txt`
 - [ ] Create project directory structure
@@ -194,6 +198,29 @@ arxiv-trading-papers/
 - [ ] Deploy with small capital (1-5%)
 - [ ] Monitor & iterate
 - [ ] Scale gradually
+
+### CryptoWatch Market Surveillance
+
+### Phase 1: MVP (2-3 weeks)
+- [ ] Setup alert system (Telegram bot)
+- [ ] Whale transaction alerts
+- [ ] Exchange flow monitoring
+- [ ] Basic dashboard (Streamlit)
+- [ ] Deploy to production
+
+### Phase 2: Enhanced Detection (4-6 weeks)
+- [ ] Order book manipulation detection
+- [ ] Social sentiment integration
+- [ ] Pump group detection
+- [ ] Mobile app (React Native)
+- [ ] Premium tier launch
+
+### Phase 3: Institutional (8-12 weeks)
+- [ ] Compliance reporting
+- [ ] Audit trails
+- [ ] API for institutions
+- [ ] Custom dashboards
+- [ ] SLA infrastructure
 
 ---
 
